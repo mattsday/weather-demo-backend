@@ -1,0 +1,6 @@
+weather:
+  api:
+    key: changeme
+    uri: https://api.openweathermap.org/data/2.5/forecast?q=
+  default:
+    city: Newbury
